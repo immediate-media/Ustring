@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/ustring",
+    "name"       : "immediate-media/hoa-ustring",
     "description": "The Hoa\\Ustring library.",
     "type"       : "library",
     "keywords"   : ["library", "string", "unicode", "search"],
@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Ustring"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
